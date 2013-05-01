@@ -45,7 +45,6 @@
         'metrorail'     =>  'Metrorail (WMATA)',
         'dc-circulator' =>  'Circulator',
 		'pgc'           =>  'pgc',
-		'umd'           =>  'umd',
         'art'           =>  'ART'
     );
 
